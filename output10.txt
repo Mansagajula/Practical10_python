@@ -1,0 +1,1 @@
+23 in binary is 0b10111 
